@@ -176,7 +176,7 @@ h2 {
 	display: flex;
 	justify-content: space-between;
 	margin-top: 5rem;
-	margin-bottom: 5rem;
+	margin-bottom: 10rem;
 	height: 70rem;
 }
 
@@ -340,7 +340,6 @@ h2 {
 
 .work {
 	text-align: center;
-	/* margin-top: 3rem; */
 	margin-bottom: 15rem;
 }
 
