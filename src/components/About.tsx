@@ -11,12 +11,12 @@ export default function About() {
 						from New York.
 					</h2>
 					<p className='about-info'>
-						Hello, my name is Brian! I'm an experienced programmer motivated
-						through solving complex problems. I have a proven track record of
-						leading teams and delivering Full Stack web applications critical
-						for clients and teams. I'm excited to join a company that encourages
-						personal and professional growth. If you are currently hiring
-						Engineers, I would love to connect with you on
+						Hello, my name is Brian! I'm an experienced programmer motivated by
+						solving complex problems. I have a proven track record of leading
+						teams and delivering Full Stack web applications critical for
+						clients and teams. I'm excited to join a company that encourages
+						personal and professional growth. If you are hiring Engineers, I
+						would love to connect with you on
 						<a
 							className='gradient-text gradient-link'
 							href='https://twitter.com/BrianSchneeDev'
