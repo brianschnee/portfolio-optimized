@@ -40,39 +40,42 @@ export default function Main() {
 						Backend development roles.
 					</p>
 					<div className='social-links'>
-						<div className='social-containers'>
+						<a
+							className='social-containers'
+							href='https://twitter.com/brianschneedev'
+							target='_blank'
+						>
 							<Image
 								className='social-icons'
 								src='./assets/logos/twitter.png'
 								alt='twitter logo'
 							/>
-							<a href='https://twitter.com/brianschneedev' target='_blank'>
-								Twitter
-							</a>
-						</div>
-						<div className='social-containers'>
+							Twitter
+						</a>
+						<a
+							className='social-containers'
+							href='https://linkedin.com/in/brian-schnee-dev'
+							target='_blank'
+						>
 							<Image
 								className='social-icons'
 								src='./assets/logos/linkedin.png'
 								alt='linkedin logo'
 							/>
-							<a
-								href='https://linkedin.com/in/brian-schnee-dev'
-								target='_blank'
-							>
-								LinkedIn
-							</a>
-						</div>
-						<div className='social-containers'>
+							LinkedIn
+						</a>
+						<a
+							className='social-containers'
+							href='https://github.com/brianschnee'
+							target='_blank'
+						>
 							<Image
 								className='social-icons'
 								src='./assets/logos/github.png'
 								alt='github logo'
 							/>
-							<a href='https://github.com/brianschnee' target='_blank'>
-								GitHub
-							</a>
-						</div>
+							GitHub
+						</a>
 					</div>
 				</section>
 				<div className='circles'>
