@@ -50,7 +50,7 @@ export default function Main() {
 								src='./assets/logos/twitter.png'
 								alt='twitter logo'
 							/>
-							Twitter
+							<span>Twitter</span>
 						</a>
 						<a
 							className='social-containers'
@@ -62,7 +62,7 @@ export default function Main() {
 								src='./assets/logos/linkedin.png'
 								alt='linkedin logo'
 							/>
-							LinkedIn
+							<span>LinkedIn</span>
 						</a>
 						<a
 							className='social-containers'
@@ -74,7 +74,7 @@ export default function Main() {
 								src='./assets/logos/github.png'
 								alt='github logo'
 							/>
-							GitHub
+							<span>GitHub</span>
 						</a>
 					</div>
 				</section>
