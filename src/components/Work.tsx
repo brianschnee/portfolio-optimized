@@ -18,7 +18,7 @@ export default function Work() {
 							</a>
 							<a
 								className='overlay-button green'
-								href='https://github.com/brianschnee/portfolio'
+								href='https://github.com/brianschnee/portfolio-optimized'
 								target='_blank'
 							>
 								<span>GitHub</span>
