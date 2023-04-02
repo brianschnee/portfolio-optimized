@@ -29,7 +29,7 @@ export default function Main() {
 				<section className='main-text'>
 					<h1 className='title'>
 						I'm Brian Schnee,
-						<br className='break' />a
+						<br className='break' /> a
 						<span className='engineer gradient-text'> Full Stack Engineer</span>
 						.
 					</h1>
