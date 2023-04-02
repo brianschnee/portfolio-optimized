@@ -8,7 +8,7 @@ export default function About() {
 					<h2 className='about-title'>
 						I'm a Full Stack Engineer
 						<br className='break' />
-						from New York.
+						from New York.{' '}
 					</h2>
 					<p className='about-info'>
 						Hello, my name is Brian! I'm an experienced programmer motivated by
