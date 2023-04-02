@@ -6,9 +6,8 @@ export default function About() {
 			<div className='about-container'>
 				<div className='about-text'>
 					<h2 className='about-title'>
-						I'm a Full Stack Engineer
-						<br className='break' />
-						from New York.{' '}
+						I'm a Full Stack Engineer <br className='break' />
+						from New York.
 					</h2>
 					<p className='about-info'>
 						Hello, my name is Brian! I'm an experienced programmer motivated by
