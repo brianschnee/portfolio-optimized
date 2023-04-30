@@ -42,7 +42,7 @@ export default function Main() {
 					<div className='social-links'>
 						<a
 							className='social-containers'
-							href='https://twitter.com/brianschneedev'
+							href='https://twitter.com/fullstackbrian'
 							target='_blank'
 						>
 							<Image
