@@ -42,7 +42,7 @@ export default function Main() {
 					<div className='social-links'>
 						<a
 							className='social-containers'
-							href='https://twitter.com/fullstackbrian'
+							href='https://twitter.com/schneedotdev'
 							target='_blank'
 						>
 							<Image
@@ -54,7 +54,7 @@ export default function Main() {
 						</a>
 						<a
 							className='social-containers'
-							href='https://linkedin.com/in/brian-schnee-dev'
+							href='https://linkedin.com/in/schneedotdev'
 							target='_blank'
 						>
 							<Image
@@ -66,7 +66,7 @@ export default function Main() {
 						</a>
 						<a
 							className='social-containers'
-							href='https://github.com/brianschnee'
+							href='https://github.com/schneedotdev'
 							target='_blank'
 						>
 							<Image

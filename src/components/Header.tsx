@@ -11,7 +11,7 @@ const MainLinks = () => {
 				<a href='#proficiencies'>Skills</a>
 			</li>
 			<li>
-				<a href='https://dev.to/brianschnee' target='_blank'>
+				<a href='https://schnee.dev/blogs' target='_blank'>
 					Blogs
 				</a>
 			</li>
